@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "Author": "Team Wrath",
         "Name": "Wrath Combo",
@@ -9,14 +9,14 @@
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
         "DownloadCount": 477148,
         "LastUpdate": 1764539116,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.22/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.22/latest.zip",
-        "AssemblyVersion": "1.0.2.22",
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/download/WrathCombo/versions/1.0.1.17/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/download/WrathCombo/versions/1.0.1.17/latest.zip",
+        "AssemblyVersion": "1.0.1.17",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "12",
         "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
-        "TestingAssemblyVersion": "1.0.2.24",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.24/testing.zip",
+        "TestingAssemblyVersion": "1.0.1.16",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/download/WrathCombo/versions/1.0.1.16/testing.zip",
         "TestingDalamudApiLevel": "12",
         "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
     },
@@ -59,7 +59,7 @@
         "AssemblyVersion": "1.0.1.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "12",
-        "Changelog": "- Improved job selection UI\n- Fixed error caused by selecting DoH/DoL in Jobs tab (by Akechi)\n- Added Meditate from SAM under Job-specific Actions in Extras tab (by Akechi)\n- Added Block All Movement option; supports Controller \u0026 KBM (by Akechi)\n- UI cleanup (by Akechi)\n- Vector mode for overlay, supports vertical layout (by wah)",
+        "Changelog": "- Improved job selection UI\n- Fixed error caused by selecting DoH/DoL in Jobs tab (by Akechi)\n- Added Meditate from SAM under Job-specific Actions in Extras tab (by Akechi)\n- Added Block All Movement option; supports Controller & KBM (by Akechi)\n- UI cleanup (by Akechi)\n- Vector mode for overlay, supports vertical layout (by wah)",
         "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
     },
     {
@@ -180,8 +180,8 @@
     {
         "Author": "kawaii, jukka",
         "Name": "Palace Pal",
-        "Punchline": "Shows possible trap \u0026 Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-        "Description": "Shows possible trap \u0026 Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
         "Tags": [
             "potd",
             "hoh",
@@ -201,7 +201,7 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
-        "Author": "Liza Carvelli \u0026 various contributors",
+        "Author": "Liza Carvelli & various contributors",
         "Name": "Questionable",
         "Punchline": "A tiny quest helper plugin.",
         "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
@@ -237,9 +237,9 @@
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
         "DownloadCount": 901521,
         "LastUpdate": 1764783998,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.23/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.23/latest.zip",
-        "AssemblyVersion": "5.0.0.23",
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/download/AutoHook/versions/v4.3.4.1/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/download/AutoHook/versions/v4.3.4.1/latest.zip",
+        "AssemblyVersion": "v4.3.4.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "12",
         "Changelog": "",
@@ -279,14 +279,14 @@
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
         "DownloadCount": 921377,
         "LastUpdate": 1763283931,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.13.05/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.13.05/latest.zip",
-        "AssemblyVersion": "1.13.05",
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/download/YesAlready/versions/v1.10.10/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/download/YesAlready/versions/v1.10.10/latest.zip",
+        "AssemblyVersion": "v1.10.10",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "12",
         "Changelog": "",
-        "TestingAssemblyVersion": "1.10.4.0",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/testing.zip",
+        "TestingAssemblyVersion": "v1.10.9",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/download/YesAlready/versions/v1.10.9/testing.zip",
         "TestingDalamudApiLevel": "12",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     }
