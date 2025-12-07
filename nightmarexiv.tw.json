@@ -1,0 +1,25 @@
+[
+        {
+        "Author": "NightmareXIV",
+        "Name": "TextAdvance",
+        "Punchline": "Quest speedrunning assistance tool. Automatically skips subtitle boxes and confirms cutscene skipping",
+        "Description": "",
+        "Changelog": "- 7.3 update",
+        "IsHide": false,
+        "InternalName": "TextAdvance",
+        "AssemblyVersion": "3.2.4.6",
+        "TestingAssemblyVersion": "3.2.3.0",
+        "IsTestingExclusive": false,
+        "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "TestingDalamudApiLevel": 10,
+        "DownloadCount": 444051,
+        "LastUpdate": 1754531817,
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.6/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.3.0/latest.zip",
+        "SupportsProfiles": true,
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/TextAdvance/images/icon.png"
+    }
+]
