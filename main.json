@@ -9,7 +9,7 @@
         "AssemblyVersion": "2.2.3.2",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 12,
         "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
         "ImageUrls": [],
         "LoadSync": false,
