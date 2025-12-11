@@ -23,5 +23,23 @@
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.2.3.2/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1755107833"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Tags": [],
+        "InternalName": "AutoRetainer",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "DownloadCount": 1625968,
+        "LastUpdate": 1765482672,
+        "DownloadLinkInstall": "https://github.com/PunishXIV/AutoRetainer/releases/download/4.5.1.12/AutoRetainer-4.5.1.12.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishXIV/AutoRetainer/releases/download/4.5.1.12/AutoRetainer-4.5.1.12.zip",
+        "AssemblyVersion": "4.5.1.12",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     }
 ]
