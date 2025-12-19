@@ -64,7 +64,7 @@
         "Author": "Asriel",
         "Name": "Craftimizer",
         "InternalName": "Craftimizer",
-        "AssemblyVersion": "2.7.1.0",
+        "AssemblyVersion": "2.7.0.1",
         "Description": "Allows you to generate macros and simulate all sorts of crafts without having to open another app. Open your crafting log to get started!",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/WorkingRobot/Craftimizer",
@@ -96,9 +96,9 @@
         "IconUrl": "https://git.camora.dev/asriel/Craftimizer/raw/branch/main/icon.png",
         "Punchline": "Simulate crafts, create computer-assisted macros, and get mid-craft suggestions from the comfort of your own game!",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/WorkingRobot/Craftimizer/releases/download/2.7.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/WorkingRobot/Craftimizer/releases/download/2.7.1.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/WorkingRobot/Craftimizer/releases/download/2.7.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/WorkingRobot/Craftimizer/releases/download/2.7.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WorkingRobot/Craftimizer/releases/download/2.7.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/WorkingRobot/Craftimizer/releases/download/2.7.0.1/latest.zip",
         "DownloadCount": 0
     }
 ]
