@@ -114,12 +114,12 @@
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "DownloadCount": 0,
         "LastUpdated": "1766121655",
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.1.5/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.1.5/latest.zip",
+        "DownloadLinkInstall": "https://github.com/PunishXIV/Splatoon/releases/download/3.8.1.5/Splatoon-3.8.1.5.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishXIV/Splatoon/releases/download/3.8.1.5/Splatoon-3.8.1.5.zip",
         "AssemblyVersion": "3.8.1.5",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
-        "Changelog": "",
+        "Changelog": "7.2",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
     }
 ]
