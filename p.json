@@ -1,0 +1,101 @@
+[
+  {
+    "Author": "Errer",
+    "Name": "pvpauto",
+    "Punchline": "PVPè‡ªåŠ¨åŒ–æˆ˜åœº",
+    "Description": "ä¸€ä¸ªç®€å•çš„ç»¿è‰²æ’ä»¶ã€‚",
+    "Changelog": "7.25CN åˆ«å†å¼€ç›’æˆ‘äº†(ä¸¾ç™½æ——ï¼‰  ",
+    "InternalName": "pvpauto",
+    "AssemblyVersion": "5.0.0.1",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/latest.zip",
+    "DownloadCount": 217193
+
+  },
+  {
+    "Author": "Taurenkey (Puni.sh),Errer(å›½æœæœ¬åœ°åŒ–)",
+    "Name": "Saucy",
+    "Punchline": "å½“ä¸ºé‡‘è¶æ¸¸æˆæ´»åŠ¨å¤ªè´¹æ—¶é—´çš„æ—¶å€™ï¼å¯åŠ¨å®ƒï¼",
+    "Description": "è‡ªåŠ¨æ‰§è¡ŒæŸäº›é‡‘è¶å°æ¸¸æˆ,è§£é™¤å›½æœé™åˆ¶",
+    "Changelog": "Saucy å›½æœ.net8",
+    "InternalName": "SaucyX",
+    "AssemblyVersion": "1.4.0.2",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/Saucy/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/Saucy/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/Saucy/latest.zip",
+    "DownloadCount": 75896
+
+  },
+  {
+    "Author": "akira0245,Errer(APIX)",
+    "Name": "EasyZoom",
+    "Punchline": "è½»æ¾çš„å˜ç„¦è·ç¦»è§£é”å’Œç„¦ç‚¹æŽ§åˆ¶ã€‚ /ezoom to open config panel",
+    "Description": "è½»æ¾çš„å˜ç„¦è·ç¦»è§£é”å’Œç„¦ç‚¹æŽ§åˆ¶ã€‚ /ezoom to open config panel",
+    "Tags": [
+      "zoom"
+    ],
+    "InternalName": "EasyZoom",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "DownloadCount": 596,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/EasyZoom/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/EasyZoom/latest.zip",
+    "AssemblyVersion": "2.3.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "10",
+    "Changelog": "å…ˆå¸®akira0245æ›´äº†hhhh"
+
+  },
+  {
+    "Author": "Fragile,Errer(ç»´æŠ¤ï¼‰",
+    "Name": "CharaCradThief",
+    "Punchline": "é“­ç‰Œå°å·",
+    "Description": "å°±å·å°±å· å¥½çœ‹çš„å°±å·ï¼",
+    "Changelog": "é“­ç‰Œå°å·7.2CN",
+    "InternalName": "CharaCradThief",
+    "AssemblyVersion": "4.0.0.0",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/CharaCradThief/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/CharaCradThief/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/CharaCradThief/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/6c6bb2e/Plugins/CharaCradThief/cct.png",
+    "DownloadCount": 127112
+
+  },
+  {
+    "Author": "Fragile,Errer(ç»´æŠ¤ï¼‰",
+    "Name": "CharaCradThief(API12)",
+    "Punchline": "é“­ç‰Œå°å·",
+    "Description": "å°±å·å°±å· å¥½çœ‹çš„å°±å·ï¼",
+    "Changelog": "é“­ç‰Œå°å·7.2GL",
+    "InternalName": "CharaCradThief",
+    "AssemblyVersion": "3.0.0.1",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/CharaCradThiefgl/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/CharaCradThiefgl/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/6c6bb2e/Plugins/CharaCradThiefgl/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/6c6bb2e/Plugins/CharaCradThief/cct.png",
+    "DownloadCount": 103056
+
+  }
+
+]
