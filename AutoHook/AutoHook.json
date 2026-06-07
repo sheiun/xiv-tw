@@ -1,0 +1,22 @@
+{
+  "Author": "Det",
+  "Name": "AutoHook",
+  "InternalName": "AutoHook",
+  "AssemblyVersion": "4.3.4.1",
+  "Description": "It hooks the fish for you, can you believe it?",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+  "Tags": [
+    "Gathering",
+    "Fishing"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
+  "Punchline": "Makes fishing less (or more) boring",
+  "Changelog": "Click the Changelog button to see whats new",
+  "AcceptsFeedback": false
+}

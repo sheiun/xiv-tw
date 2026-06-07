@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "Det",
+        "Name": "AutoHook",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/sheiun/xiv-tw",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "AssemblyVersion": "4.3.4.1",
+        "LastUpdate": 1780841057,
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
+        "DownloadLinkInstall": "https://github.com/sheiun/xiv-tw/raw/main/AutoHook/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/sheiun/xiv-tw/raw/main/AutoHook/latest.zip",
+        "DownloadLinkTesting": "https://github.com/sheiun/xiv-tw/raw/main/AutoHook/latest.zip"
+    }
+]
