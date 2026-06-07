@@ -1,0 +1,21 @@
+{
+  "Author": "croizat",
+  "Name": "CBT",
+  "InternalName": "Automaton",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "Tweaks that are sometimes simple, sometimes not.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Jaksuhn/Automaton",
+  "Tags": [
+    "automation",
+    "plugin"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://i.imgur.com/AVSzkMB.png",
+  "Punchline": "Yet another tweaks collection plugin.",
+  "AcceptsFeedback": true
+}
