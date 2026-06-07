@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "croizat",
+        "Name": "CBT",
+        "Punchline": "Yet another tweaks collection plugin.",
+        "Description": "Tweaks that are sometimes simple, sometimes not.",
+        "Tags": [
+            "automation",
+            "plugin"
+        ],
+        "InternalName": "Automaton",
+        "RepoUrl": "https://github.com/sheiun/xiv-tw",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "AssemblyVersion": "0.0.0.0",
+        "LastUpdate": 1780840025,
+        "IconUrl": "https://i.imgur.com/AVSzkMB.png",
+        "DownloadLinkInstall": "https://github.com/sheiun/xiv-tw/raw/main/Automaton/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/sheiun/xiv-tw/raw/main/Automaton/latest.zip",
+        "DownloadLinkTesting": "https://github.com/sheiun/xiv-tw/raw/main/Automaton/latest.zip"
+    }
+]
