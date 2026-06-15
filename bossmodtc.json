@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "BossMod TC",
+        "InternalName": "BossModReborn",
+        "AssemblyVersion": "0.0.0.1",
+        "Author": "The Combat Reborn Team (TC localization)",
+        "Punchline": "繁體中文版 BossMod：副本雷達、機制提示、自動閃避與 CD 規劃",
+        "Description": "繁體中文版 BossMod（BossModReborn）：副本雷達、機制提示、自動閃避、自動連段與 CD 規劃工具。專為 TC（台港）客戶端打造，Dalamud API12。UI 與機制提示為手動繁中翻譯，Boss／技能／區域名走遊戲內建繁體中文。",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "boss",
+            "dodge",
+            "mechanics",
+            "pve",
+            "raids",
+            "trials"
+        ],
+        "IsTestingExclusive": false,
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 12,
+        "RepoUrl": "https://github.com/YukiDalamudPlugins/BossModTC",
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/BossModTC/releases/download/0.0.0.1/BossModReborn.zip",
+        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/BossModTC/releases/download/0.0.0.1/BossModReborn.zip"
+    }
+]
