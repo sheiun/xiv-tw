@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "FCCH",
+        "InternalName": "FCCH",
+        "AssemblyVersion": "2.3.2.1",
+        "Author": "Nexai (TC build)",
+        "Punchline": "部隊寶物庫小幫手：自動存取、整理、水晶與工房材料",
+        "Description": "Free Company Chest Helper 的 TC（台港）版本。自動化部隊寶物庫的存入／取出、重複物品、整理（Organizer）、水晶、工房專案材料與自訂物品清單。針對 TC（API12）客戶端調整：修正開啟部隊寶物庫時的崩潰，介面全面繁體中文化。",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "fc",
+            "chest",
+            "inventory",
+            "automation"
+        ],
+        "IsTestingExclusive": false,
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 12,
+        "RepoUrl": "https://github.com/YukiDalamudPlugins/FCCHTC",
+        "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/fcch.png",
+        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/FCCHTC/releases/download/v2.3.2.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/FCCHTC/releases/download/v2.3.2.1/latest.zip"
+    }
+]
