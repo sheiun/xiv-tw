@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "PingPlugin TC",
+        "InternalName": "PingPluginTC",
+        "AssemblyVersion": "2.11.2.0",
+        "Author": "karashiiro (TC build)",
+        "Punchline": "顯示即時延遲（Ping）的 Dalamud 外掛",
+        "Description": "在伺服器資訊列／懸浮窗顯示即時延遲與平均延遲，並提供延遲圖表。專為 TC（台港）客戶端與新加坡機房調整：改用 TCP 交握量測延遲（ICMP 被擋時仍可運作），修正延遲顯示 0ms 的問題。Dalamud API12，介面為繁體中文。",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "ping",
+            "monitor",
+            "utility",
+            "tool"
+        ],
+        "IsTestingExclusive": false,
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 12,
+        "RepoUrl": "https://github.com/YukiDalamudPlugins/PingPluginTC",
+        "IconUrl": "https://raw.githubusercontent.com/YukiDalamudPlugins/PingPluginTC/tc/Assets/icon.png",
+        "DownloadLinkInstall": "https://github.com/YukiDalamudPlugins/PingPluginTC/releases/download/2.11.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/YukiDalamudPlugins/PingPluginTC/releases/download/2.11.2.0/latest.zip"
+    }
+]
